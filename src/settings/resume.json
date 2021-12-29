@@ -1,0 +1,73 @@
+{
+    "basics": {
+        "name": "Areno",
+        "label": "Computer Science student",
+        "email": "arenodev.python@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "jl.png",
+        "x_title": "Hey, I'm",
+        "job": "computer enthusiast.",
+        "description": "Hey, I'm a, a Computer enthusiast based in Noida, India. I love programming in Python and as of now I'm learning C++.",
+        "summary": "based in Noida, India.",
+        "keywords": "personal,website,portfolio,template,kit,areno,dev,computer,science,noida,india,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Noida",
+            "country": "India",
+            "countryCode": "IN",
+            "region": "Noida"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "arenodev.python@gmail.com",
+                "url": "mailto:arenodev.python@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "GitHub",
+                "username": "areno-dev",
+                "url": "https://github.com/areno-dev",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Discord",
+                "username": "Areno Dev#1402",
+                "url": "https://discord.com",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+
+    "skills": [
+        {
+            "name": "Programmer",
+            "level": "Intermediate",
+            "keywords": ["Python", "C++"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Linux",
+            "keywords": ["Arch Linux", "Rice"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Areno",
+            "reference": "I Love Computers!"
+        }
+    ]
+}
